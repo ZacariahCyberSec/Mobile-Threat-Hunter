@@ -1,39 +1,29 @@
-# 🛡️ Mobile Threat Hunter (Termux + Python)
+# 🛡️ Mobile Threat Hunter (Android + Termux)
 
-## 📌 Overview
-Mobile Threat Hunter is a lightweight cybersecurity tool built using Python and Termux on Android. It scans device storage to detect:
+## 🚀 Overview
+Mobile Threat Hunter is a Python-based cybersecurity tool designed to run on Android using Termux. It performs file system analysis to identify potential risks and storage inefficiencies.
 
-- Duplicate files (hash-based detection)
-- Large files consuming storage
-- Suspicious file types (.apk, .exe, .sh)
-
-This project simulates real-world endpoint analysis and threat detection workflows.
+This project demonstrates real-world **endpoint security analysis** using a mobile environment.
 
 ---
 
-## ⚙️ Features
+## 🔍 Features
 
-- 🔍 Recursive file scanning
-- 🧬 MD5 hash-based duplicate detection
+- 🧬 Hash-based duplicate file detection (MD5)
 - 📦 Large file identification (>50MB)
-- ⚠️ Suspicious file detection
-- 🧹 Optional automatic duplicate cleanup
-- 📄 Report generation
+- ⚠️ Detection of suspicious file types (.apk, .exe, .sh)
+- 🧹 Optional automated duplicate cleanup
+- 📄 Generates structured analysis reports
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - Python 3
-- Termux (Android Linux environment)
-- File system analysis techniques
+- Termux (Linux environment on Android)
+- File hashing (MD5)
+- OS file system operations
 
 ---
 
-## 🚀 How to Run
-
-```bash
-pkg install python
-termux-setup-storage
-
-python threat_hunter.py
+## 📂 Project Structure
