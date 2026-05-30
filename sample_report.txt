@@ -1,0 +1,539 @@
+[LARGE FILE] com.termux_1002.apk - 108.60 MB
+[SUSPICIOUS FILE] com.termux_1002.apk
+[SUSPICIOUS FILE] F-Droid.apk
+[LARGE FILE] lesson_recordings.zip - 51.48 MB
+[SUSPICIOUS FILE] hackers-keyboard-v1-41-1.apk
+[LARGE FILE] lv_0_20260422044434.mp4 - 83.11 MB
+[LARGE FILE] Facebook.apk - 145.23 MB
+[SUSPICIOUS FILE] Facebook.apk
+[LARGE FILE] WhatsApp Business.apk - 92.89 MB
+[SUSPICIOUS FILE] WhatsApp Business.apk
+[LARGE FILE] Aqua Mail.apk - 55.92 MB
+[SUSPICIOUS FILE] Aqua Mail.apk
+[SUSPICIOUS FILE] Bible.apk
+[SUSPICIOUS FILE] Preply.apk
+[LARGE FILE] SHEIN.apk - 87.37 MB
+[SUSPICIOUS FILE] SHEIN.apk
+[SUSPICIOUS FILE] ChatGPT.apk
+[LARGE FILE] LinkedIn.apk - 102.05 MB
+[SUSPICIOUS FILE] LinkedIn.apk
+[LARGE FILE] TikTok.apk - 112.15 MB
+[SUSPICIOUS FILE] TikTok.apk
+[SUSPICIOUS FILE] rainGo.apk
+[LARGE FILE] CapCut.apk - 108.82 MB
+[SUSPICIOUS FILE] CapCut.apk
+[LARGE FILE] Threads.apk - 58.97 MB
+[SUSPICIOUS FILE] Threads.apk
+[SUSPICIOUS FILE] Google News.apk
+[LARGE FILE] Reddit.apk - 105.93 MB
+[SUSPICIOUS FILE] Reddit.apk
+[LARGE FILE] Capitec.apk - 53.42 MB
+[SUSPICIOUS FILE] Capitec.apk
+[LARGE FILE] Instagram.apk - 112.50 MB
+[SUSPICIOUS FILE] Instagram.apk
+[SUSPICIOUS FILE] raintalk.apk
+[SUSPICIOUS FILE] Opera Mini.apk
+[LARGE FILE] School.apk - 58.81 MB
+[SUSPICIOUS FILE] School.apk
+[LARGE FILE] Messenger.apk - 66.83 MB
+[SUSPICIOUS FILE] Messenger.apk
+[SUSPICIOUS FILE] Teachy.apk
+[SUSPICIOUS FILE] Sasol Rewards.apk
+[SUSPICIOUS FILE] V+ Rewards.apk
+[SUSPICIOUS FILE] uConnect.apk
+[LARGE FILE] X.apk - 115.50 MB
+[SUSPICIOUS FILE] X.apk
+[LARGE FILE] Coursera.apk - 61.70 MB
+[SUSPICIOUS FILE] Coursera.apk
+[SUSPICIOUS FILE] Google.apk
+[LARGE FILE] Joy.apk - 80.65 MB
+[SUSPICIOUS FILE] Joy.apk
+[SUSPICIOUS FILE] TryHackMe.apk
+[LARGE FILE] WhatsApp.apk - 85.16 MB
+[SUSPICIOUS FILE] WhatsApp.apk
+[SUSPICIOUS FILE] Xe.apk
+[SUSPICIOUS FILE] GitHub.apk
+[SUSPICIOUS FILE] Mama Money Agent App.apk
+[LARGE FILE] Pick n Pay asap!.apk - 82.05 MB
+[SUSPICIOUS FILE] Pick n Pay asap!.apk
+[LARGE FILE] M365 Copilot.apk - 364.53 MB
+[SUSPICIOUS FILE] M365 Copilot.apk
+[SUSPICIOUS FILE] Cyber Security.apk
+[SUSPICIOUS FILE] Google Developers.apk
+[LARGE FILE] Waze.apk - 91.32 MB
+[SUSPICIOUS FILE] Waze.apk
+[SUSPICIOUS FILE] Google Cloud.apk
+[LARGE FILE] Termux.apk - 97.03 MB
+[SUSPICIOUS FILE] Termux.apk
+[SUSPICIOUS FILE] Medium.apk
+[SUSPICIOUS FILE] Safety _ Software Supply Chain Firewall & Security.apk
+[SUSPICIOUS FILE] HashiCorp.apk
+[SUSPICIOUS FILE] Continuous Integration With Python_ An Introduction – Real Python.apk
+[SUSPICIOUS FILE] Free templates for social media, documents & designs _ Microsoft Create.apk
+[SUSPICIOUS FILE] Docs.apk
+[SUSPICIOUS FILE] Exceed.apk
+[SUSPICIOUS FILE] Google One.apk
+[LARGE FILE] MobiOffice.apk - 83.01 MB
+[SUSPICIOUS FILE] MobiOffice.apk
+[SUSPICIOUS FILE] Akamai.apk
+[SUSPICIOUS FILE] MDCloud.apk
+[SUSPICIOUS FILE] McAfee AI-Powered Antivirus, Scam, Identity, and Privacy Protection.apk
+[SUSPICIOUS FILE] Leveraging EDR Data to Improve Cyber Threat Intelligence _ SentinelOne.apk
+[SUSPICIOUS FILE] VirusTotal.apk
+[SUSPICIOUS FILE] Programming Hub.apk
+[LARGE FILE] Adobe Acrobat.apk - 59.08 MB
+[SUSPICIOUS FILE] Adobe Acrobat.apk
+[LARGE FILE] Waveful.apk - 91.45 MB
+[SUSPICIOUS FILE] Waveful.apk
+[LARGE FILE] Mondly Languages.apk - 144.09 MB
+[SUSPICIOUS FILE] Mondly Languages.apk
+[LARGE FILE] Course Hero.apk - 121.85 MB
+[SUSPICIOUS FILE] Course Hero.apk
+[SUSPICIOUS FILE] Project Jupyter _ Installing Jupyter.apk
+[LARGE FILE] Jetpack.apk - 66.48 MB
+[SUSPICIOUS FILE] Jetpack.apk
+[LARGE FILE] Slides.apk - 59.12 MB
+[SUSPICIOUS FILE] Slides.apk
+[SUSPICIOUS FILE] Feedly_ Track the topics and trends that matter to you.apk
+[SUSPICIOUS FILE] Skills Network.apk
+[SUSPICIOUS FILE] Really Great Teacher.apk
+[SUSPICIOUS FILE] ANY.RUN - Interactive Online Malware Sandbox.apk
+[SUSPICIOUS FILE] How to Whitelist an Email in Gmail, Outlook, and Yahoo.apk
+[SUSPICIOUS FILE] Canva.apk
+[SUSPICIOUS FILE] MyDStv.apk
+[LARGE FILE] OneDrive.apk - 101.14 MB
+[SUSPICIOUS FILE] OneDrive.apk
+[LARGE FILE] Firefox.apk - 53.72 MB
+[SUSPICIOUS FILE] Firefox.apk
+[SUSPICIOUS FILE] Free Music.apk
+[SUSPICIOUS FILE] 908 Top Flashcards Teaching Resources curated for you.apk
+[SUSPICIOUS FILE] Antoree Members.apk
+[SUSPICIOUS FILE] AI Studio.apk
+[LARGE FILE] WPS Office.apk - 90.07 MB
+[SUSPICIOUS FILE] WPS Office.apk
+[SUSPICIOUS FILE] YT Studio.apk
+[SUSPICIOUS FILE] Flexa.apk
+[SUSPICIOUS FILE] +more.apk
+[SUSPICIOUS FILE] Udemy.apk
+[SUSPICIOUS FILE] Pixlr Suite.apk
+[SUSPICIOUS FILE] Microsoft SwiftKey Keyboard.apk
+[SUSPICIOUS FILE] Moodle.org.apk
+[SUSPICIOUS FILE] Downloader.apk
+[SUSPICIOUS FILE] Mama Money Family App.apk
+[LARGE FILE] Padlet.apk - 78.59 MB
+[SUSPICIOUS FILE] Padlet.apk
+[SUSPICIOUS FILE] Quizlet.apk
+[LARGE FILE] Kahoot!.apk - 90.80 MB
+[SUSPICIOUS FILE] Kahoot!.apk
+[SUSPICIOUS FILE] Classroom.apk
+[SUSPICIOUS FILE] Edpuzzle.apk
+[SUSPICIOUS FILE] learndirect_ Community Hub.apk
+[SUSPICIOUS FILE] Duolingo.apk
+[SUSPICIOUS FILE] Business Profile.apk
+[SUSPICIOUS FILE] WiFi Data.apk
+[SUSPICIOUS FILE] Blog _ British Council.apk
+[SUSPICIOUS FILE] Google Wallet.apk
+[SUSPICIOUS FILE] CISSP-CCSP-SSCP.apk
+[LARGE FILE] Golf Clash.apk - 146.19 MB
+[SUSPICIOUS FILE] Golf Clash.apk
+[SUSPICIOUS FILE] MyRunway.apk
+[LARGE FILE] Remove BG.apk - 118.96 MB
+[SUSPICIOUS FILE] Remove BG.apk
+[SUSPICIOUS FILE] remove.bg.apk
+[SUSPICIOUS FILE] Tic Tac Bets.apk
+[LARGE FILE] Bolt.apk - 108.66 MB
+[SUSPICIOUS FILE] Bolt.apk
+[LARGE FILE] SPAR2U.apk - 55.55 MB
+[SUSPICIOUS FILE] SPAR2U.apk
+[LARGE FILE] Vimeo.apk - 69.42 MB
+[SUSPICIOUS FILE] Vimeo.apk
+[SUSPICIOUS FILE] Proton VPN.apk
+[SUSPICIOUS FILE] Arcademics.apk
+[SUSPICIOUS FILE] Telegram.apk
+[SUSPICIOUS FILE] iatefl.org _ Linking, developing and supporting English Language Teaching professionals worldwide.apk
+[LARGE FILE] Zoom.apk - 120.09 MB
+[SUSPICIOUS FILE] Zoom.apk
+[LARGE FILE] OALD.apk - 76.86 MB
+[SUSPICIOUS FILE] OALD.apk
+[LARGE FILE] Business Suite.apk - 81.30 MB
+[SUSPICIOUS FILE] Business Suite.apk
+[SUSPICIOUS FILE] SPAR Rewards South Africa.apk
+[LARGE FILE] Domino Dreams.apk - 137.26 MB
+[SUSPICIOUS FILE] Domino Dreams.apk
+[LARGE FILE] inDrive.apk - 162.59 MB
+[SUSPICIOUS FILE] inDrive.apk
+[SUSPICIOUS FILE] WAKA TV.apk
+[LARGE FILE] Asana.apk - 52.30 MB
+[SUSPICIOUS FILE] Asana.apk
+[SUSPICIOUS FILE] SA bp Rewards _ Say hello to bp's rewards programme.apk
+[SUSPICIOUS FILE] Bad Dudes vs. DragonNinja.apk
+[LARGE FILE] Meta AI.apk - 52.65 MB
+[SUSPICIOUS FILE] Meta AI.apk
+[SUSPICIOUS FILE] Family Safety.apk
+[LARGE FILE] Uber Eats.apk - 212.89 MB
+[SUSPICIOUS FILE] Uber Eats.apk
+[SUSPICIOUS FILE] WFB.apk
+[LARGE FILE] Azure.apk - 84.89 MB
+[SUSPICIOUS FILE] Azure.apk
+[SUSPICIOUS FILE] Andronix.apk
+[SUSPICIOUS FILE] Pear Deck.apk
+[LARGE FILE] Metal Contra.apk - 60.55 MB
+[SUSPICIOUS FILE] Metal Contra.apk
+[LARGE FILE] Mukuru.apk - 67.07 MB
+[SUSPICIOUS FILE] Mukuru.apk
+[SUSPICIOUS FILE] Teams.apk
+[SUSPICIOUS FILE] Brainstorming and Voting Amazingly Easy. Free Online Tool _ tricider.apk
+[SUSPICIOUS FILE] Home _ Onestopenglish.apk
+[SUSPICIOUS FILE] BND.apk
+[SUSPICIOUS FILE] TOEFL iBT.apk
+[SUSPICIOUS FILE] Typeform.apk
+[LARGE FILE] WorldRemit.apk - 50.74 MB
+[SUSPICIOUS FILE] WorldRemit.apk
+[LARGE FILE] Shop2Shop.apk - 93.28 MB
+[SUSPICIOUS FILE] Shop2Shop.apk
+[SUSPICIOUS FILE] 169000+ English ESL free printable worksheets, EFL video lessons.apk
+[LARGE FILE] picup.apk - 64.13 MB
+[SUSPICIOUS FILE] picup.apk
+[LARGE FILE] Outlook.apk - 104.56 MB
+[SUSPICIOUS FILE] Outlook.apk
+[SUSPICIOUS FILE] Copilot.apk
+[SUSPICIOUS FILE] Alison.apk
+[SUSPICIOUS FILE] SF IV CE.apk
+[SUSPICIOUS FILE] Kung Fu.apk
+[SUSPICIOUS FILE] Hollywoodbets.apk
+[SUSPICIOUS FILE] World Chess.apk
+[LARGE FILE] Edge.apk - 189.29 MB
+[SUSPICIOUS FILE] Edge.apk
+[LARGE FILE] Wix.apk - 164.30 MB
+[SUSPICIOUS FILE] Wix.apk
+[SUSPICIOUS FILE] Home - The Sound of English.apk
+[SUSPICIOUS FILE] Grammarly.apk
+[SUSPICIOUS FILE] Blogger.apk
+[SUSPICIOUS FILE] Clicks.apk
+[SUSPICIOUS FILE] Apartment  flat to rent in Multiple Suburbs.apk
+[LARGE FILE] Microsoft Defender.apk - 78.15 MB
+[SUSPICIOUS FILE] Microsoft Defender.apk
+[SUSPICIOUS FILE] TeachingGamesEFL.com - by Mike Astbury.apk
+[SUSPICIOUS FILE] cmp-web-app.apk
+[LARGE FILE] Coin Master.apk - 86.53 MB
+[SUSPICIOUS FILE] Coin Master.apk
+[LARGE FILE] PayPal.apk - 91.55 MB
+[SUSPICIOUS FILE] PayPal.apk
+[SUSPICIOUS FILE] React App.apk
+[SUSPICIOUS FILE] Eventbrite.apk
+[SUSPICIOUS FILE] Genially.apk
+[SUSPICIOUS FILE] Panel.apk
+[SUSPICIOUS FILE] Figma.apk
+[SUSPICIOUS FILE] ETS Global.apk
+[SUSPICIOUS FILE] Macmillan British.apk
+[SUSPICIOUS FILE] Search Results.apk
+[SUSPICIOUS FILE] DupDub Lab.apk
+[LARGE FILE] Skype.apk - 70.94 MB
+[SUSPICIOUS FILE] Skype.apk
+[SUSPICIOUS FILE] Trustpilot.apk
+[SUSPICIOUS FILE] NotebookLM.apk
+[SUSPICIOUS FILE] Remote Jobs in Programming, Design, Sales and more #OpenSalaries.apk
+[SUSPICIOUS FILE] Freelance Writing _ Helping Freelance Writers to Succeed since 1997.apk
+[SUSPICIOUS FILE] JobBoardSearch 🔎.apk
+[SUSPICIOUS FILE] WWR.apk
+[SUSPICIOUS FILE] Remote4me.apk
+[LARGE FILE] Payoneer.apk - 53.21 MB
+[SUSPICIOUS FILE] Payoneer.apk
+[SUSPICIOUS FILE] Inc..apk
+[SUSPICIOUS FILE] www.citizen.apk
+[SUSPICIOUS FILE] Kid Power _ Get Active. Save Lives..apk
+[LARGE FILE] OneNote.apk - 183.57 MB
+[SUSPICIOUS FILE] OneNote.apk
+[LARGE FILE] Power Automate.apk - 91.83 MB
+[SUSPICIOUS FILE] Power Automate.apk
+[SUSPICIOUS FILE] LingoClip.apk
+[SUSPICIOUS FILE] Adobe Scan.apk
+[SUSPICIOUS FILE] vk_3.apk
+[SUSPICIOUS FILE] IELTS _ Welcome to IELTS.apk
+[SUSPICIOUS FILE] PlayPhrase.me_ Site for cinema archaeologists..apk
+[SUSPICIOUS FILE] Stories are your best lesson plans - LessonStream - Jamie Keddie.apk
+[SUSPICIOUS FILE] Vocaroo.apk
+[SUSPICIOUS FILE] Did you enjoy Glogster_ You will love Canvastera!.apk
+[SUSPICIOUS FILE] GoTo.apk
+[SUSPICIOUS FILE] Free Online English Pronunciation Dictionary _ Howjsay _ Learn to Pronounce English Words _ Howjsay.apk
+[SUSPICIOUS FILE] Oxford A-Z of Grammar And Punctuation.apk
+[LARGE FILE] Woo.apk - 96.22 MB
+[SUSPICIOUS FILE] Woo.apk
+[SUSPICIOUS FILE] Google Ads.apk
+[SUSPICIOUS FILE] YT Kids.apk
+[SUSPICIOUS FILE] SHD.apk
+[SUSPICIOUS FILE] RDYBET - Your game, your win! Proudly Mzansi.apk
+[SUSPICIOUS FILE] Taylor's Tracks.apk
+[SUSPICIOUS FILE] Preparing to Teach Grammar in an ESL Class.apk
+[SUSPICIOUS FILE] Android System SafetyCore.apk
+[SUSPICIOUS FILE] Double Dragon.apk
+[SUSPICIOUS FILE] Meta ads.apk
+[SUSPICIOUS FILE] Complete Linux Installer.apk
+[SUSPICIOUS FILE] Wikipedia.apk
+[SUSPICIOUS FILE] Authenticator.apk
+[LARGE FILE] Learning.apk - 71.24 MB
+[SUSPICIOUS FILE] Learning.apk
+[LARGE FILE] Shoprite.apk - 77.44 MB
+[SUSPICIOUS FILE] Shoprite.apk
+[SUSPICIOUS FILE] Forms.apk
+[SUSPICIOUS FILE] Online Free Resumé Builder with Templates and Easy Download _ Alison.apk
+[SUSPICIOUS FILE] ATG Digital.apk
+[SUSPICIOUS FILE] BrightTALK.apk
+[SUSPICIOUS FILE] Govchain.apk
+[LARGE FILE] Uber Driver.apk - 133.25 MB
+[SUSPICIOUS FILE] Uber Driver.apk
+[SUSPICIOUS FILE] RemoteHub.apk
+[LARGE FILE] Super Mano Bros Run.apk - 54.86 MB
+[SUSPICIOUS FILE] Super Mano Bros Run.apk
+[LARGE FILE] Excel.apk - 239.27 MB
+[SUSPICIOUS FILE] Excel.apk
+[SUSPICIOUS FILE] DStv Stream.apk
+[SUSPICIOUS FILE] @openstaxos-webview.apk
+[SUSPICIOUS FILE] Tap2Pay.apk
+[SUSPICIOUS FILE] Pixabay Lite.apk
+[SUSPICIOUS FILE] How Many Syllables.apk
+[LARGE FILE] VooV.apk - 57.86 MB
+[SUSPICIOUS FILE] VooV.apk
+[LARGE FILE] WeChat.apk - 177.49 MB
+[SUSPICIOUS FILE] WeChat.apk
+[SUSPICIOUS FILE] Vygotsky's Zone of Proximal Development & Scaffolding Theory In Psychology.apk
+[SUSPICIOUS FILE] Jobgether.apk
+[SUSPICIOUS FILE] Himalayas.apk
+[SUSPICIOUS FILE] REMOTE WORK_ Jobs, Companies & Remote Talent - 121 Countries - Pangian.com.apk
+[SUSPICIOUS FILE] Empllo (Formerly TryRemotely) - Tech & Startup Job Search.apk
+[SUSPICIOUS FILE] Dynamite Jobs.apk
+[SUSPICIOUS FILE] Remote Jobs _ Working Nomads.apk
+[SUSPICIOUS FILE] Wellfound (formerly AngelList Talent) - Startup Job Search.apk
+[LARGE FILE] FlipaClip.apk - 107.47 MB
+[SUSPICIOUS FILE] FlipaClip.apk
+[SUSPICIOUS FILE] Spanish with Stephanie - Ideas from one Spanish teacher to another.apk
+[LARGE FILE] AmazingTalker.apk - 50.95 MB
+[SUSPICIOUS FILE] AmazingTalker.apk
+[SUSPICIOUS FILE] Plotagon.apk
+[SUSPICIOUS FILE] Macmillan.apk
+[LARGE FILE] Tennis Clash.apk - 183.50 MB
+[SUSPICIOUS FILE] Tennis Clash.apk
+[SUSPICIOUS FILE] IATEFL BESIG - The Business English Special Interest Group.apk
+[SUSPICIOUS FILE] Yoga International.apk
+[SUSPICIOUS FILE] Lists.apk
+[LARGE FILE] Bing.apk - 126.71 MB
+[SUSPICIOUS FILE] Bing.apk
+[SUSPICIOUS FILE] The Botanist.apk
+[SUSPICIOUS FILE] The Guardian.apk
+[SUSPICIOUS FILE] Bulk email software - Mass email software _ SendBlaster.apk
+[SUSPICIOUS FILE] Kids Yoga Stories. Get Started with Teaching Kids Yoga.apk
+[SUSPICIOUS FILE] Dis-Chem.apk
+[LARGE FILE] Analytics.apk - 84.84 MB
+[SUSPICIOUS FILE] Analytics.apk
+[SUSPICIOUS FILE] Baamboozle _ The Most Fun Classroom Games!.apk
+[SUSPICIOUS FILE] Thisissand.apk
+[SUSPICIOUS FILE] Lesson Plans Digger - Free English Lesson Plans and Teaching Tips.apk
+[SUSPICIOUS FILE] Chat.apk
+[SUSPICIOUS FILE] Enjoy Learning Languages with Music!.apk
+[SUSPICIOUS FILE] Indeed Job Search.apk
+[SUSPICIOUS FILE] TELUS International AI.apk
+[SUSPICIOUS FILE] Home _ LearnEnglish Kids.apk
+[LARGE FILE] Trello.apk - 58.97 MB
+[SUSPICIOUS FILE] Trello.apk
+[SUSPICIOUS FILE] Home - Socrative.apk
+[SUSPICIOUS FILE] Storyboard That.apk
+[SUSPICIOUS FILE] DuraSpeed.apk
+[SUSPICIOUS FILE] Cleverism.apk
+[SUSPICIOUS FILE] Android System Key Verifier.apk
+[SUSPICIOUS FILE] Learn a language. Memrise is authentic, useful & personalised..apk
+[SUSPICIOUS FILE] Marketing, Automation & Email Platform _ Mailchimp.apk
+[SUSPICIOUS FILE] Google Translate.apk
+[SUSPICIOUS FILE] Flippity.net_ Random Name Picker Instructions.apk
+[SUSPICIOUS FILE] TestReady.apk
+[SUSPICIOUS FILE] Learn AWS.apk
+[LARGE FILE] VID_20241012_103220.mp4 - 95.29 MB
+[LARGE FILE] lv_0_20241009142340.mp4 - 83.83 MB
+[LARGE FILE] -6497920808188945490 - 77.01 MB
+[LARGE FILE] VID-20250329-WA0001.mp4 - 99.40 MB
+[LARGE FILE] VID_20241012_102237.mp4 - 76.91 MB
+[LARGE FILE] VID_20250208_103141.mp4 - 153.60 MB
+[LARGE FILE] VID_20250202_101808.mp4 - 154.20 MB
+[LARGE FILE] 2024-12-01-234338135.mp4 - 69.07 MB
+[LARGE FILE] Writing-part-1-universal.mp4 - 129.84 MB
+[LARGE FILE] VID-20250216-WA0007.mp4 - 82.18 MB
+[LARGE FILE] VID_20250216_104443.mp4 - 57.12 MB
+[LARGE FILE] Grammar-video-lesson-Part-1.mp4 - 131.68 MB
+[LARGE FILE] Functions-video-Part-1.mp4 - 138.69 MB
+[LARGE FILE] -8756381517512309504 - 92.34 MB
+[LARGE FILE] -4898619015542503887 - 93.63 MB
+[LARGE FILE] VID_20250202_101134.mp4 - 202.79 MB
+[LARGE FILE] VID_20240528_142109.mp4 - 67.78 MB
+[LARGE FILE] VID_20250303_083605.mp4 - 54.42 MB
+[LARGE FILE] VID_20241208_104421.mp4 - 71.33 MB
+[LARGE FILE] 02. Ngiyamazi.wav - 188.67 MB
+[LARGE FILE] VID_20250503_164237.mp4 - 113.69 MB
+[LARGE FILE] VID_20250330_092345.mp4 - 109.07 MB
+[LARGE FILE] VID-20250216-WA0011.mp4 - 66.08 MB
+[LARGE FILE] VID_20250503_130930.mp4 - 90.40 MB
+[LARGE FILE] VID_20241208_113602.mp4 - 100.21 MB
+[LARGE FILE] -7973443624456241691 - 81.59 MB
+[LARGE FILE] -4790480712483636333 - 50.77 MB
+[LARGE FILE] VID_20250503_141526.mp4 - 50.98 MB
+[LARGE FILE] -7847184384179341852 - 97.12 MB
+[LARGE FILE] 03. Spontaneous Worship 3.mp3 - 62.27 MB
+[LARGE FILE] VID_20250503_143208.mp4 - 117.89 MB
+[LARGE FILE] VID-20250127-WA0007.mp4 - 64.22 MB
+[LARGE FILE] VID-20250608-WA0010.mp4 - 66.23 MB
+[LARGE FILE] -5951477665661104590 - 71.47 MB
+[LARGE FILE] VID_20250216_103857.mp4 - 182.61 MB
+[LARGE FILE] VID_20241208_104046.mp4 - 177.98 MB
+[LARGE FILE] Writing-part-3-universal.mp4 - 108.71 MB
+[LARGE FILE] -5809420608634387645 - 128.66 MB
+[LARGE FILE] VID_20250208_072944.mp4 - 174.87 MB
+[LARGE FILE] -7770718465505355445 - 55.84 MB
+[LARGE FILE] -5748027594938886960 - 69.02 MB
+[SUSPICIOUS FILE] wps_lid.lid-e8HHU5m66f5f.exe
+[SUSPICIOUS FILE] Shinobi.apk
+[LARGE FILE] VID_20250216_101941.mp4 - 66.73 MB
+[LARGE FILE] VID_20250216_105340.mp4 - 224.41 MB
+[LARGE FILE] -5901698313302936371 - 57.67 MB
+[LARGE FILE] -8450290876358659063 - 96.42 MB
+[LARGE FILE] VID_20240918_160426.mp4 - 201.54 MB
+[LARGE FILE] 2024-10-05-222254740.mp4 - 71.57 MB
+[LARGE FILE] -6712341971928796413 - 82.23 MB
+[LARGE FILE] VID_20241012_101917.mp4 - 69.73 MB
+[LARGE FILE] Reading-lesson-video-Part-1.mp4 - 136.25 MB
+[LARGE FILE] VID-20250523-WA0008.mp4 - 66.82 MB
+[LARGE FILE] 2024-10-09-143644679.mp4 - 131.52 MB
+[LARGE FILE] lv_0_20241008164209.mp4 - 110.22 MB
+[LARGE FILE] 07. Spontaneous Worship 7.mp3 - 56.08 MB
+[LARGE FILE] -5786685999808489811 - 77.55 MB
+[LARGE FILE] VID-20250601-WA0018.mp4 - 58.55 MB
+[LARGE FILE] VID_20250503_151402.mp4 - 61.15 MB
+[LARGE FILE] 1728158765005.mp4 - 53.56 MB
+[LARGE FILE] -8502659709492575530 - 72.20 MB
+[LARGE FILE] Reading-lesson-video-Part-2.mp4 - 94.18 MB
+[LARGE FILE] Grammar-video-lesson-Part-2.mp4 - 126.05 MB
+[LARGE FILE] VID_20240606_132611.mp4 - 90.87 MB
+[LARGE FILE] VID_20250503_143527.mp4 - 145.84 MB
+[LARGE FILE] -4961090933088223395 - 59.33 MB
+[LARGE FILE] VID_20250215_170941.mp4 - 82.16 MB
+[LARGE FILE] -7742159321474528602 - 55.34 MB
+[LARGE FILE] VID_20250216_104336.mp4 - 144.58 MB
+[LARGE FILE] -8565055550740786359 - 275.70 MB
+[LARGE FILE] 08. Spontaneous Worship 8.mp3 - 50.76 MB
+[LARGE FILE] VID_20250216_104843.mp4 - 120.87 MB
+[LARGE FILE] VID-20250216-WA0008.mp4 - 82.04 MB
+[LARGE FILE] 2024-10-04-235636369.mp4 - 71.16 MB
+[LARGE FILE] 11. Spontaneous Worship 11.mp3 - 63.47 MB
+[LARGE FILE] VID-20250524-WA0000.mp4 - 56.27 MB
+[LARGE FILE] Writing-part-2-universal.mp4 - 135.45 MB
+[SUSPICIOUS FILE] WAKA_TV_wakatv_m_R0011_1.apk
+[LARGE FILE] -8917678077998878960 - 54.00 MB
+[LARGE FILE] VID_20250503_140112.mp4 - 100.47 MB
+[LARGE FILE] 2024-10-04-235300378.mp4 - 91.62 MB
+[LARGE FILE] Main service Gibson Munyonga.m4a - 50.56 MB
+[LARGE FILE] -7779773221504576467 - 68.22 MB
+[LARGE FILE] Functions-video-Part-2.mp4 - 80.30 MB
+[LARGE FILE] VID_20250330_082223.mp4 - 89.44 MB
+[SUSPICIOUS FILE] GitHub (3).apk
+[LARGE FILE] VID_20250330_090537.mp4 - 306.15 MB
+[LARGE FILE] VID_20250202_101330.mp4 - 70.64 MB
+[LARGE FILE] VID_20241208_112718.mp4 - 70.13 MB
+[LARGE FILE] Pastor Anne Chavhunduka feedback p2.m4a - 65.50 MB
+
+[DUPLICATES FOUND]
+/sdcard/Download/CopyofCV3.pdf
+/sdcard/Download/Quick Share/CopyofCV3-1.pdf
+
+[DUPLICATES FOUND]
+/sdcard/Download/Tinashe_Zacariah_Nyandoro_Cybersecurity_CV (1)-1.pdf
+/sdcard/Download/Tinashe_Zacariah_Nyandoro_Cybersecurity_CV (1).pdf
+
+[DUPLICATES FOUND]
+/sdcard/Download/Tinashe-Nyandoro-1a441850-1663-494e-913c-3bbf63a30b37 (2).pdf
+/sdcard/Download/Tinashe-Nyandoro-1a441850-1663-494e-913c-3bbf63a30b37 (2) (1).pdf
+
+[DUPLICATES FOUND]
+/sdcard/Download/untitled 1 (2).pdf
+/sdcard/Download/untitled 1 (2)-1.pdf
+/sdcard/Download/Quick Share/untitled 1 (2)-1.pdf
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/Bad Dudes vs. DragonNinja.apk
+/sdcard/Download/Quick Share/-5577489660152931424
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/Andronix.apk
+/sdcard/Download/Quick Share/-7236696550928814422
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/IMG_20250719_145540_483.webp
+/sdcard/Download/Quick Share/IMG_20250719_142056_741.webp
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/IMG_20250525_121358_218.webp
+/sdcard/Download/Quick Share/IMG_20250525_121349_556.webp
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/Screenshot_20250507-205446~2 (3).png
+/sdcard/Download/Quick Share/Screenshot_20250507-205446~2.png
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/Learn AWS.apk
+/sdcard/Download/Quick Share/-4755948156775438146
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/1727993380993.mp4
+/sdcard/Download/Quick Share/1727999507981.mp4
+/sdcard/Download/Quick Share/1727995986851.mp4
+/sdcard/Download/Quick Share/1727994232130.mp4
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023_2_1_2688967_671_5_2688967_448.docx
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023_2_1_2688967_671_5_2688967_448 (1)_2688967_830.docx
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/-7923518770512357589
+/sdcard/Download/Quick Share/Shinobi.apk
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023_2 (1)_2688967_671 (4).docx
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023_2 (1)_2688967_671 (6).docx
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023_2 (1)_2688967_671 (3).docx
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023_2 (1)_2688967_671.docx
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/1708345369_Plagiarism_policy_Feb_24.pdf
+/sdcard/Download/Quick Share/1708346293_Plagiarism_policy_Feb_24.pdf
+/sdcard/Download/Quick Share/1708345943_Plagiarism_policy_Feb_24.pdf
+/sdcard/Download/Quick Share/1708345772_Plagiarism_policy_Feb_24.pdf
+/sdcard/Download/Quick Share/1708343626_Plagiarism_policy_Feb_24.pdf
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/LinkedIn Learning Certificate.pdf
+/sdcard/Download/Quick Share/LinkedIn Learning Certificate (8).pdf
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/Tinashe_Zacariah_Entry_Level_Cybersecurity_CV (3).pdf
+/sdcard/Download/Quick Share/Tinashe_Zacariah_Entry_Level_Cybersecurity_CV (4).pdf
+/sdcard/Download/Quick Share/Tinashe_Zacariah_Entry_Level_Cybersecurity_CV.pdf
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/1692174723_3.Template_1_1Online_Aug_2023 (3)_2597869_656.docx
+/sdcard/Download/Quick Share/1692174723_3.Template_1_1Online_Aug_2023_3_2597869_656_2597869_244.docx
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/1692174867_2.Template_TOSE_Aug_2023_1_2633901_640_1_2633901_680_2633901_507.docx
+/sdcard/Download/Quick Share/1692174867_2.Template_TOSE_Aug_2023_1_2633901_640 (1)_2633901_680.docx
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023.docx_20240701_230619_0000_2558835_574.pdf
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023.docx_20240701_230619_0000.pdf
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/isc2-candidate.png
+/sdcard/Download/Quick Share/isc2-candidate (3).png
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023_2_2558835_187 (3).docx
+/sdcard/Download/Quick Share/1692174233_2.A1_Template_Aug_2023_2_2558835_187.docx
+
+[DUPLICATES FOUND]
+/sdcard/Download/Quick Share/Coursera JEL58BNSC4RR.pdf
+/sdcard/Download/Quick Share/Coursera JEL58BNSC4RR (3).pdf
